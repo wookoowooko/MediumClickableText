@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">MediumClickableText</string>
-    
+    <string name="agreement_prefix">By continuing, you agree to the</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="terms_of_service">Terms of Service</string>
+    <string name="and">and</string>
+    <string name="agreement_suffix">.</string>
 </resources>
